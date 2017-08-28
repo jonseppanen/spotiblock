@@ -1,0 +1,16 @@
+.ads-leaderboard-container{
+    display:none!important;
+}
+div#header.container{
+    display:none!important;
+}
+#now-playing-widgets{
+    display:none!important;
+}
+#app-player html{
+    height:100%!important;
+}
+#app-player body{
+    border-bottom:0!important;
+    height:100%!important;
+}
